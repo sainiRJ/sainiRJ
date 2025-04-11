@@ -1,64 +1,69 @@
-![Banner](./A_digital_image_of_Rajesh_Pushpakar's_GitHub_profi.png)
+<p align="center">
+  <img src="./A_digital_image_of_Rajesh_Pushpakar's_GitHub_profi.png" alt="banner" />
+</p>
 
-# 👋 Hi there, I'm Rajesh Pushpakar!
+<h1 align="center">Hi there 👋, I'm Rajesh Pushpakar</h1>
 
-### 💻 Full Stack Developer | Passionate Coder | Tech Enthusiast
-
-I’m a **Full Stack Developer** with a passion for building scalable web applications and crafting beautiful user experiences. I love exploring new technologies and constantly learning to improve my skills.
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=flat&logo=ruby-on-rails)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+<p align="center">🚀 Full Stack Developer | Javascript Lover | Backend & Frontend Enthusiast</p>
 
 ---
 
-## 📌 Featured Projects
+## 🧰 Tech Stack
 
-### 🎉 [Event Bliss Decorations Hub](https://github.com/sainiRJ/event-bliss-decorations-hub)
-> A stylish platform to showcase and manage event decorations. Built with modern technologies and a clean UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### 🧑‍💻 [Event Management Frontend](https://github.com/sainiRJ/event-management-frontend)
-> A React-based frontend app for seamless event management.
+---
 
-### 🛠️ [Event Management Backend](https://github.com/sainiRJ/event-management-backend)
-> Backend service built using Node.js/NestJS for event organization and operations.
+## 🚀 Featured Projects
+
+- 🎨 [Event Bliss Decorations Hub](https://github.com/sainiRJ/event-bliss-decorations-hub)
+- 🧑‍💻 [Event Management Frontend](https://github.com/sainiRJ/event-management-frontend)
+- 🛠️ [Event Management Backend](https://github.com/sainiRJ/event-management-backend)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sainiRJ&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiRJ&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sainiRJ&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainiRJ&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sainiRJ&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sainiRJ&theme=algolia" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sainiRJ&theme=default)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sainiRJ&theme=highcontrast"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect with Me
 
-- 📧 Email: [rajeshpushpakar01@gmail.com](mailto:rajeshpushpakar01@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rajesh-saini-8830911b1](https://www.linkedin.com/in/rajesh-saini-8830911b1/)
-- 🐦 Twitter: [@RajeshS44121795](https://x.com/RajeshS44121795)
+<p align="center">
+  <a href="mailto:rajeshpushpakar01@gmail.com"><img src="https://img.shields.io/badge/email-rajeshpushpakar01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rajesh-saini-8830911b1/"><img src="https://img.shields.io/badge/linkedin-Rajesh_Saini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/RajeshS44121795"><img src="https://img.shields.io/badge/Twitter-@RajeshS44121795-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> “Stay hungry. Stay foolish.” – Steve Jobs
