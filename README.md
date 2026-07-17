@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Rajesh%20Pushpakar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20JavaScript%20Lover&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Rajesh%20Pushpakar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps+%F0%9F%9A%80;React+%2B+Node.js+%2B+Rails+Enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -10,8 +10,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently building event-management platforms end to end
-- 🌱 Sharpening my skills in **NestJS**, **Docker**, and scalable backend architecture
 - 💬 Ask me about **JavaScript, React, Ruby on Rails, or Node.js**
 - 📫 Reach me at **rajeshpushpakar01@gmail.com**
 
@@ -37,8 +35,10 @@
 **Database & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -48,20 +48,15 @@
 
 <table>
   <tr>
-    <td width="33%">
-      <h4>🎨 Event Bliss Decorations Hub</h4>
-      <p>Decoration booking platform for events.</p>
-      <a href="https://github.com/sainiRJ/event-bliss-decorations-hub">View Repo →</a>
+    <td width="50%">
+      <h4>🌱 Sprouts Shop Admin Frontend</h4>
+      <p>Admin dashboard frontend for managing shop operations.</p>
+      <a href="https://github.com/sainiRJ/sprouts-shop-admin-frontend">View Repo →</a>
     </td>
-    <td width="33%">
-      <h4>🧑‍💻 Event Management Frontend</h4>
-      <p>React-based UI for managing events end to end.</p>
-      <a href="https://github.com/sainiRJ/event-management-frontend">View Repo →</a>
-    </td>
-    <td width="33%">
-      <h4>🛠️ Event Management Backend</h4>
-      <p>API & services powering the event management suite.</p>
-      <a href="https://github.com/sainiRJ/event-management-backend">View Repo →</a>
+    <td width="50%">
+      <h4>🍷 Winery Maintain</h4>
+      <p>Backend service for winery management.</p>
+      <a href="https://github.com/sainiRJ/winery_maintain">View Repo →</a>
     </td>
   </tr>
 </table>
@@ -71,17 +66,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sainiRJ&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainiRJ&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-rho.vercel.app/api?username=sainiRJ&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=sainiRJ&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainiRJ&theme=highcontrast&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sainiRJ&theme=highcontrast&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sainiRJ&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
+
+> ⚠️ **Note:** GitHub stats badges rely on free, shared third-party services which sometimes go down due to rate limits. If images break again, the permanent fix is to self-host on your own free Vercel account — ask me and I'll walk you through it in 5 minutes.
 
 ---
 
@@ -91,7 +88,7 @@
   <a href="mailto:rajeshpushpakar01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/rajesh-pushpakar-8830911b1/">
+  <a href="https://linkedin.com/in/rajesh-pushpakar-8830911b1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/RajeshS44121795">
