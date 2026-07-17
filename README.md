@@ -78,9 +78,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sainiRJ&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 
-> ⚠️ **Note:** GitHub stats badges rely on free, shared third-party services which sometimes go down due to rate limits. If images break again, the permanent fix is to self-host on your own free Vercel account — ask me and I'll walk you through it in 5 minutes.
-
----
 
 ### 📬 Connect with Me
 
